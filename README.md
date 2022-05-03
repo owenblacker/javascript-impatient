@@ -1,4 +1,4 @@
-# _Modern JavaScipt for the Impatient_, by Cay S. Horstmann
+# _Modern JavaScript for the Impatient_, by Cay S. Horstmann
 
 This repo is me working through the exercises in this book, as I haven't used very much JavaScript since before FE toolchains and ECMAScript stuff existed.
 
