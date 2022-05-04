@@ -1,0 +1,17 @@
+# Chapter 2: Control structures
+
+1. [How do REPL consoles show return values for different statements?](ch2-q1.md)
+2. [What is wrong with…](ch2-q2.md)
+3. [Semicolon insertion](ch2-q3.md)
+4. [Inequality comparisons](ch2-q4.md)
+5. [Or, and and trinary](ch2-q5.md)
+6. [Three kinds of `for` loop](ch2-q6.md)
+7. [Why does this `for ... in` not print output?](ch2-q7.md)
+8. [`switch` 1](ch2-q8.md)
+9. [`switch` with fallthrough](ch2-q9.md)
+10. [Rewrite `do` as `while`](ch2-q10.md)
+11. [Rewrite `for` as `while`](ch2-q11.md)
+12. [Rewrite labelled `break` as nested `for`](ch2-12.md)
+13. [Rewrite labelled `break` to use a boolean variable to control flow](ch2-13.md)
+14. [Rewrite `continue` without `continue`](ch2-14.md)
+15. [Find a subsequence, with and without `break` and `continue`](ch2-15.md)

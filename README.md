@@ -5,7 +5,7 @@ This repo is me working through the exercises in this book, as I haven't used ve
 ## Table of Contents
 
 1. [Values and variables](chapter01/README.md)
-2. Control structures
+2. [Control structures](chapter02/README.md)
 3. Functions and functional programming
 4. Object-Oriented programming
 5. Numbers and dates
