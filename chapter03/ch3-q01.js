@@ -8,6 +8,7 @@ function indexOf(arr, value) {
 const array = [ 0, '1', '2', '3',];
 const string = '0123';
 const object = { "Zero": 0, "One": "1", "Two": "2", "Three": "3" };
+const objArray = { 0: 0, 1: "1", 2: "2", 3: "3" };
 
 console.log(" ⏩️ Array")
 console.log(`>> indexOf(array, 0): ${indexOf(array, 0)}`);
@@ -23,3 +24,8 @@ console.log("\n ⏩️ Object")
 console.log(`>> indexOf(object, 0): ${indexOf(object, 0)}`);
 console.log(`>> indexOf(object, '1'): ${indexOf(object, '1')}`);
 console.log(`>> indexOf(object, 4): ${indexOf(object, 4)}`);
+
+console.log("\n ⏩️ Object array")
+console.log(`>> indexOf(objArray, 0): ${indexOf(objArray, 0)}`);
+console.log(`>> indexOf(objArray, '1'): ${indexOf(objArray, '1')}`);
+console.log(`>> indexOf(objArray, 4): ${indexOf(objArray, 4)}`);
