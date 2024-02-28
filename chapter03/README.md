@@ -2,7 +2,7 @@
 
 1. ✅ [`indexOf` on an object instead of an array](./ch3-q01.md)
 1. ⏳ [Rewrite `indexOf` to have a single `return`](./ch3-q02.md)
-1. ⏳ [Write a function `values(f, low, high)` to yield an array of values `[ f(low), f(low + 1), ... f(high) ]`](./ch3-q03.md)
+1. ✅ [Write a function `values(f, low, high)` to yield an array of values `[ f(low), f(low + 1), ... f(high) ]`](./ch3-q03.md)
 1. ⏳ [`sort` method as arrow functions](./ch3-q04.md)
 1. ⏳ [Hard objects and output increments](./ch3-q05.md)
 1. ⏳ [Named parameters and strict mode](./ch3-q06.md)
